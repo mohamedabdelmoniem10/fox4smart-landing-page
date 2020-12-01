@@ -1,0 +1,14 @@
+.counter__section {
+  margin: 0;
+  width: 100%;
+  background-color: #222831;
+
+  &--heading {
+    margin: 0 auto;
+    padding: 3rem;
+    color: #e8e8e8;
+    font-size: 4rem;
+    text-align: center;
+    text-shadow: #e93d36 3px 2px 2px;
+  }
+}
